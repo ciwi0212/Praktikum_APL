@@ -1,0 +1,3 @@
+
+Nama Pelanggan: cellia, Film: Mickey Mouse, Jenis: T-shirt, Jumlah: 5, Total Biaya: $149.95
+Nama Pelanggan: cellia, Film: Star Wars, Jenis: Tumblr, Jumlah: 3, Total Biaya: $149.97
